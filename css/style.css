@@ -10,7 +10,8 @@
 .navbar-default .navbar-brand {
   color: #fff;
 }
-.nav > li > a {
+.nav > li > a { 
+  display:none;
 }
 .heading {
   text-decoration: none;
